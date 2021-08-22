@@ -17,6 +17,11 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 
+To install pytest:
+```sh
+pip install -r requirements.txt
+```
+
 Run test cases using below CLI:
 ```sh
 pytest
