@@ -25,7 +25,7 @@ You should be able to see a prompt that 23 cases passed.
 
 To run the robot:
 ```sh
-./run.py
+python run.py
 ```
 
 To exit this application:
