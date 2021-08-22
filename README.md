@@ -1,7 +1,7 @@
 # Toy Robot Code Challenge
 ## _This is a simple command line application_
 
-Basic enviroments:
+Basic environments:
 
 - Python 3
 - virtual env
