@@ -17,7 +17,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 ```
 
-To install pytest:
+To install the package(s) - pytest:
 ```sh
 pip install -r requirements.txt
 ```
