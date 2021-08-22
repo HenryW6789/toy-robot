@@ -37,3 +37,15 @@ To exit this application:
 ```sh
 bye
 ```
+
+## Example Input and Output
+Input:
+```sh
+PLACE 0,0,NORTH
+MOVE
+REPORT
+```
+Output:
+```
+0,1,NORTH
+```
