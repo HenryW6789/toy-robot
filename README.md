@@ -1,2 +1,34 @@
-# toy-robot
- 
+# Toy Robot Code Challenge
+## _This is a simple command line application_
+
+Basic enviroments:
+
+- Python 3
+- virtual env
+- pip
+- Pytest
+
+## Usage
+This is a coding challenge so we do not expect it to be installed on any system or distributed in any form other than a git checkout.
+
+Create and activate the virtual environment:
+```sh
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+Run test cases using below CLI:
+```sh
+pytest
+```
+You should be able to see a prompt that 23 cases passed.
+
+To run the robot:
+```sh
+./run.py
+```
+
+To exit this application:
+```sh
+bye
+```
