@@ -24,11 +24,10 @@ def main():
                     print (robot)
                 elif cmd == 'MOVE':
                     robot.move()
-                else:
+                else: # LEFT or RIGHT
                     robot.turn(cmd)
             except ValueError:
                 print ("ERROR: InvalidCommand, Please try again!")
-                pass
 
 if __name__ == "__main__":
     main()
