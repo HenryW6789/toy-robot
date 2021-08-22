@@ -21,7 +21,8 @@ def main():
                 elif not robot.init_place(): # the first command to the robot is a PLACE command?
                     raise ValueError('InvalidCommand')
                 elif cmd == 'REPORT':
-                    print (robot)
+                    # print (robot)
+                    robot.report()
                 elif cmd == 'MOVE':
                     robot.move()
                 else: # LEFT or RIGHT
