@@ -1,7 +1,11 @@
 # Toy Robot Code Challenge
 ## _This is a simple command line application_
 
-Basic environments:
+## Description
+This application is completed as a task following this [brief]. The result is a simulation of a toy robot moving on a square tabletop, of dimensions 5 units x 5 units.
+
+
+## Basic environments
 
 - Python 3
 - virtual env
@@ -49,3 +53,5 @@ Output:
 ```
 0,1,NORTH
 ```
+
+[brief]: https://github.com/HenryW6789/toy-robot/blob/main/brief.md
